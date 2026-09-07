@@ -7,35 +7,35 @@ const photos = [
   {
     src: "/photos/first.jpeg",
     title: "pertama kali kenall ",
-    date: "18 Januari 2025",
+    date: "07 April 2026",
     description:
       "hari dimana yang ngga aku sangka klo bisa sampe sini.",
   },
   {
     src: "/photos/ketawa.jpeg",
     title: "senyum favoritku ",
-    date: "25 Januari 2025",
+    date: "01 Juni 2026",
     description:
       "gatau ya kenapa aku selalu senyum sendiri setiap lihat foto ini. mungkin karna ada senyum paling favoritku di dunia hehe.",
   },
   {
     src: "/photos/sleep.jpeg",
     title: "sleepcall ",
-    date: "14 Februari 2025",
+    date: "02 Agustus 2026",
     description:
       "ngga peduli sesibuk apapun kita pasti call sama vc wkwk, yang penting ada kamu di samping aku. Sesederhana itu udah bikin aku bahagia.",
   },
   {
     src: "/photos/lawak.jpeg",
     title: "pas sayang ngelawak",
-    date: "20 Maret 2025",
+    date: "15 Juni 2026",
     description:
       "aku berharap nanti akan ada lebih banyak lagi momen seperti ini. lebih banyak cerita, tawa, dan kenangan yang kita buat bersama.",
   },
   {
     src: "/photos/cowo.jpeg",
     title: "cowok kesayanganku ",
-    date: "10 April 2025",
+    date: "25 Juli 2026",
     description:
       "klo disuruh milih foto favorit, jujur aku bakal bingung. soalnya semua foto kamu selalu kelihatan ganteng pluss maniss di mataku.",
   },
